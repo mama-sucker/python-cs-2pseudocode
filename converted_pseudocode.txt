@@ -1,0 +1,34 @@
+﻿
+
+
+
+Output: "Oh, well imagine /");
+Output: "As I'm pacing the pews in a church corridor /");
+Output: "And I can't help but to hear /");
+Output: "No, I can't help but to hear an exchanging of words...");
+
+
+Output: "\nOh-oh-oh-oh-oh,");
+Output: "oh-oh-oh-oh,");
+Output: "oh-oh-oh /");
+Output: "Caught in a bad romance...");
+
+
+Output: "\nComing out of my cage");
+Output: "And I've been doing just fine");
+Output: "Gotta gotta be down");
+Output: "Because I want it all");
+
+
+Output: "\nNow, this is a story all about how");
+Output: "My lconditionale got flipped-turned upside down");
+Output: "And I'd like to take a minute");
+Output: "Just sit right there");
+Output: "I'll tell you how I became the prince of a town called Bel-Air");
+
+
+
+
+
+
+
